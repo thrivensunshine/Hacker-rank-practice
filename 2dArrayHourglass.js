@@ -24,7 +24,7 @@ function hourglassSum(arr) {
   let holdIt = []
   let answerIt = 0
 
-  // loop through and get each array index up to the 4th (becuase past the fourth row will not have a complete hour glass ) 
+  // loop through and get each array index up to the 4th (because past the fourth row will not have a complete hour glass ) 
   for(let i = 0; i < 4; i++){
     // console.log(arr[i] + "  roooows (i)")
 
