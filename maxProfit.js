@@ -2,7 +2,7 @@
 
 
 function getMaxProfit(arr) {
-	  let minIdx = 0;
+    let minIdx = 0;
     let maxIdx = 1;
     let currMin = 0;
     let maxProfit = 0;
