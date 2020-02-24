@@ -6,6 +6,8 @@ function getMaxProfit(arr) {
     let maxIdx = 1;
     let currMin = 0;
     let maxProfit = 0;
+    
+    if(arr.length
 
     for(let i = 1; i < arr.length; i++) {
 
